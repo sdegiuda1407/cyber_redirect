@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://ar.somoslank.com/outlet?origen=cyberlank_cyberlank",
+      "permanent": true
+    }
+  ]
+}
