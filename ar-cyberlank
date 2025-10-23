@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://ar.somoslank.com/outlet?origen=cyberlank_cyberlank",
-      "statusCode": 301
-    }
-  ]
-}
